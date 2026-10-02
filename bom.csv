@@ -1,0 +1,8 @@
+Item,Part Number / Type,Description,Quantity,Unit,Notes
+1,Arduino UNO,Microcontroller board,1,pcs,USB programming and serial communication
+2,HC-SR04,Ultrasonic distance sensor,1,pcs,"TRIG -> D8, ECHO -> D9"
+3,SG90,Micro servo motor,1,pcs,Signal -> D10; 5V power; common GND
+4,Breadboard,Solderless prototyping board,1,pcs,For circuit connections
+5,Jumper wires,Male-to-male / male-to-female jumper wires,1,set,"For Arduino, sensor, and servo connections"
+6,USB cable,Arduino-compatible USB data cable,1,pcs,Arduino programming and serial link
+7,5V power supply,Regulated 5V supply for servo,1,pcs,Recommended if servo power from Arduino 5V is insufficient
