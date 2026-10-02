@@ -7,6 +7,12 @@ streams the readings over serial; the companion Processing app renders
 range rings, bearing lines, a moving sweep beam, and fading blips for
 anything detected — basically a desktop sonar scope.
 
+## Demo
+
+| Benchtop prototype | Build in progress |
+|---|---|
+| ![EchoSentinel running on a laptop, showing the green radar sweep display with servo and HC-SR04 wired on a breadboard](images/radar-demo-1.png) | ![EchoSentinel prototype on a cardboard base next to a monitor showing the radar display](images/radar-demo-2.png) |
+
 ## How it works
 
 1. **Arduino** (`arduino/EchoSentinel.ino`) sweeps an SG90 servo from
@@ -58,6 +64,9 @@ EchoSentinel/
 │   └── EchoSentinel_Display.pde
 ├── cad/
 │   └── mount.scad
+├── images/
+│   ├── radar-demo-1.png
+│   └── radar-demo-2.png
 └── README.md
 ```
 
